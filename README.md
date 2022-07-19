@@ -41,7 +41,7 @@ from the root directory. Results will be saved to `results/`.
 # Training
 
 To train our model from scratch, first download the training and validation datasets
-from [here](https://office365stanford-my.sharepoint.com/personal/rcwang_stanford_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Frcwang%5Fstanford%5Fedu%2FDocuments%2Flego%5Feccv&ga=1)
+from [here](https://office365stanford-my.sharepoint.com/:f:/g/personal/rcwang_stanford_edu/Eh3SFTyJXY5Iib-qnc55ZnIB05tYvHZ03FgfdRYMpSospw)
 , and unzip them to `data/datasets/synthetic_train` and `data/datasets/synthetic_val` respectively.
 
 After downloading the datasets, preprocess them by running
