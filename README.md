@@ -17,9 +17,11 @@ In European Conference on Computer Vision (ECCV) 2022
 
 # Installation
 
-Run the following command to install necessary dependencies.
+Run the following commands to install necessary dependencies.
 
 ```
+conda create -n lego_release python=3.9.12
+conda activate lego_release
 pip -r requirements.txt
 ```
 
