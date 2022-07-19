@@ -29,8 +29,7 @@ this [doc](https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md).
 # Evaluation
 
 Download the evaluation datasets and model checkpoints
-from [here](https://office365stanford-my.sharepoint.com/:f:/g/personal/rcwang_stanford_edu/Eh3SFTyJXY5Iib-qnc55ZnIB05tYvHZ03FgfdRYMpSospw)
-, and unzip them under the root directory of the code. Then simply run
+from [here](https://office365stanford-my.sharepoint.com/:f:/g/personal/rcwang_stanford_edu/Eh3SFTyJXY5Iib-qnc55ZnIB05tYvHZ03FgfdRYMpSospw), and unzip them under the root directory of the code. Then simply run
 
 ```
 bash scripts/eval/eval_all.sh
@@ -41,8 +40,7 @@ from the root directory. Results will be saved to `results/`.
 # Training
 
 To train our model from scratch, first download the training and validation datasets
-from [here](https://office365stanford-my.sharepoint.com/:f:/g/personal/rcwang_stanford_edu/Eh3SFTyJXY5Iib-qnc55ZnIB05tYvHZ03FgfdRYMpSospw)
-, and unzip them to `data/datasets/synthetic_train` and `data/datasets/synthetic_val` respectively.
+from [here](https://office365stanford-my.sharepoint.com/:f:/g/personal/rcwang_stanford_edu/Eh3SFTyJXY5Iib-qnc55ZnIB05tYvHZ03FgfdRYMpSospw), and unzip them to `data/datasets/synthetic_train` and `data/datasets/synthetic_val` respectively.
 
 After downloading the datasets, preprocess them by running
 
