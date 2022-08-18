@@ -25,7 +25,7 @@ conda activate lego_release
 pip -r requirements.txt
 ```
 
-You may need to manually install `pytoch3d 0.5.0` according to
+You may need to manually install `pytorch3d 0.5.0` according to
 this [doc](https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md).
 
 # Evaluation
